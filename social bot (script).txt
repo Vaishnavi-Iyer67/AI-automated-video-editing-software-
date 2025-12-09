@@ -1,0 +1,8 @@
+1. trims video based on the user input timeline 
+2. adds audio to the video
+3. trimming the audio is also possible (asks for an user input)
+4.fit audio concept 
+	for ex: -> if the audio is just 15 secs and video id 40 secs it will loop the audio till 40 secs 
+		-> if the audio is longer than the video it will cut automatically 
+5.environment to run - PS C:\Users\VARSHINI IYER\OneDrive\Desktop\bot> & "C:\Program Files\Python312\python.exe" -m venv bot_env
+>

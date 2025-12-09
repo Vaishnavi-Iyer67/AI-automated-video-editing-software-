@@ -1,0 +1,25 @@
+bot_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.exe
+*.dll
+*.so
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output folders
+dist/
+build/
+outputs/
+exports/
+
+# Cache
+*.cache
